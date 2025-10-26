@@ -183,7 +183,7 @@ feel free to open a pull request or file an issue.
 ## 🏁 Credits
 
 - Original project: **OOP Project 2 Chinese Chess 象棋**
-- Repo owner / maintainer: [GlycerinLOL](https://github.com/GlycerinLOL)
+- Repo owner / maintainer: [GlycerinLOL](https://github.com/GlycerinLOL), [IamXDD1](https://github.com/IamXDD1)
 - Forked / evolved from prior work under the same course project line
 
 Thanks to everyone who helped test moves, find illegal horse legs, and make the cannon behave 😄
